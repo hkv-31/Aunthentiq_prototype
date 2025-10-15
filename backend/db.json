@@ -1,0 +1,12 @@
+{
+  "orders": [
+    { "id": 1, "productName": "Shoes", "status": "Delivered" },
+    { "id": 2, "productName": "Shoes", "status": "Returned" },
+    { "id": 3, "productName": "Shirt", "status": "Delivered" },
+    { "id": 4, "productName": "Shirt", "status": "Returned" },
+    { "id": 5, "productName": "Shirt", "status": "Delivered" },
+    { "id": 6, "productName": "Bag", "status": "Shipped" },
+    { "id": 7, "productName": "Bag", "status": "Delivered" },
+    { "id": 8, "productName": "Shoes", "status": "Returned" }
+  ]
+}

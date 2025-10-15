@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "product": "Set of 3",
+    "orderId": "006",
+    "reason": "I don't like it. ",
+    "files": [
+      "/uploads/1759681725_purple.jpeg"
+    ],
+    "status": "declined",
+    "ai": {
+      "approved": true,
+      "score": 0.74,
+      "notes": "Image similarity = 0.74. Above threshold 0.5. High similarity \u2014 matches product photo closely."
+    },
+    "created_at": 1759681725.2119873
+  },
+  {
+    "id": 2,
+    "product": "White Polca dot scrunchy",
+    "orderId": "Hi",
+    "reason": "Hi",
+    "files": [],
+    "status": "pending",
+    "ai": {
+      "approved": null,
+      "score": null,
+      "notes": "No photos provided by customer \u2014 cannot analyse automatically."
+    },
+    "created_at": 1759682461.2551565
+  },
+  {
+    "id": 3,
+    "product": "Pluto's purple scrunchies",
+    "orderId": "9",
+    "reason": "hi",
+    "files": [
+      "/uploads/1759682603_1759681725_purple.jpeg"
+    ],
+    "status": "pending",
+    "ai": {
+      "approved": true,
+      "score": 1.0,
+      "notes": "Image similarity = 1.0. Above threshold 0.5. High similarity \u2014 matches product photo closely."
+    },
+    "created_at": 1759682603.3578227
+  },
+  {
+    "id": 4,
+    "product": "White Polca dot scrunchy",
+    "orderId": "12",
+    "reason": "hello",
+    "files": [
+      "/uploads/1759743837_sih_corted.jpg"
+    ],
+    "status": "pending",
+    "ai": {
+      "approved": true,
+      "score": 0.53,
+      "notes": "Image similarity=0.53. Approved"
+    },
+    "created_at": 1759743837.8676305
+  },
+  {
+    "id": 5,
+    "product": "White Polca dot scrunchy",
+    "orderId": "12345",
+    "reason": "defective",
+    "files": [
+      "/uploads/1759744805_TECH_STACK_logiarena.docx"
+    ],
+    "status": "declined",
+    "ai": {
+      "approved": null,
+      "score": null,
+      "notes": "Error in AI analysis: cannot identify image file 'C:\\\\Users\\\\hetan\\\\OneDrive\\\\Desktop\\\\Projects\\\\aunthentiq\\\\backend\\\\uploads\\\\1759744805_TECH_STACK_logiarena.docx'"
+    },
+    "created_at": 1759744805.7103841
+  },
+  {
+    "id": 6,
+    "product": "White Polca dot scrunchy",
+    "orderId": "123456",
+    "reason": "defective",
+    "files": [
+      "/uploads/1759745199_LogiArena_pitch_trial.docx"
+    ],
+    "status": "declined",
+    "ai": {
+      "approved": null,
+      "score": null,
+      "notes": "Error in AI analysis: cannot identify image file 'C:\\\\Users\\\\hetan\\\\OneDrive\\\\Desktop\\\\Projects\\\\aunthentiq\\\\backend\\\\uploads\\\\1759745199_LogiArena_pitch_trial.docx'"
+    },
+    "created_at": 1759745199.5984108
+  },
+  {
+    "id": 7,
+    "product": "White Polca dot scrunchy",
+    "orderId": "12345",
+    "reason": "defective",
+    "files": [
+      "/uploads/1759745686_LogiArena_pitch_trial.docx"
+    ],
+    "status": "declined",
+    "ai": {
+      "approved": null,
+      "score": null,
+      "notes": "Error in AI analysis: cannot identify image file 'C:\\\\Users\\\\hetan\\\\OneDrive\\\\Desktop\\\\Projects\\\\aunthentiq\\\\backend\\\\uploads\\\\1759745686_LogiArena_pitch_trial.docx'"
+    },
+    "created_at": 1759745686.7283916
+  }
+]

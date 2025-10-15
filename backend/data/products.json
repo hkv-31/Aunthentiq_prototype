@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "White Polca dot scrunchy",
+    "price": 499,
+    "caption": "Stretchable and easy to pair",
+    "photo": "/uploads/whitepolca.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Set of 3",
+    "price": 599,
+    "caption": "Everyday use",
+    "photo": "/uploads/logo_scrunchy.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pluto's purple scrunchies",
+    "price": 599.0,
+    "caption": "Vibrant and stylish",
+    "photo": "/uploads/purple.jpeg"
+  }
+]
